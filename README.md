@@ -1,16 +1,16 @@
 ## Ronaldo Costa Miranda
 #### Analista Desenvolvedor | FullStack
 
-## Linguagens de Programação
+#### Linguagens de Programação
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## Bibliotecas e Frameworks
+#### Bibliotecas e Frameworks
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## Banco de Dados
+#### Banco de Dados
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle)
 
-## Conecte-se Comigo
+#### Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-costa-miranda-98530549/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronaldocosta.07101986/)
@@ -20,5 +20,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ronaldocosta.07101986@gmail.com)
 
 
-## Palavras Chave
+#### Palavras Chave
 #### C#, ADO .NET, Windows Forms, API, Oracle PLSQL, WMS, Logística, Integração ERP x WMS, Banco de dados Relacional.
